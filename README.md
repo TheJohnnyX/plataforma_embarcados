@@ -12,4 +12,4 @@ Orientador: Vagner da Silva Rodrigues | Email: vagner.rodrigues@satc.edu.br
 &emsp;&emsp;Outra utilização para o projeto é permitir que seja possível rapidamente desenvolver algoritmos sem a necessidade de montagem de circuitos utilizando protoboards, que podem acarretar em diversos problemas físicos como mau contato nos terminais dos componentes, montagem errada, inversão de polaridade e componentes queimados.
 
 ## Especificações
-&emsp;&emsp;A placa eletrônica será desenvolvida utilizando a placa de desenvolvimento NodeMCU-32S, que é baseada em ESP32
+&emsp;&emsp;O projeto será desenvolvido utilizando a placa de desenvolvimento NodeMCU-32S, que é baseada em ESP32
