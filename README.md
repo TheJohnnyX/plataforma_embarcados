@@ -1,10 +1,10 @@
-# Plataforma de aprendizagem para Sistemas Embarcados com ESP32
+# Desenvolvimento de uma plataforma de aprendizagem para auxílio nas disciplinas de Sistemas Embarcados
 
 Autor: João Carlos de Souza Filho | Email: jcsfjoao@hotmail.com \
 Orientador: Vagner da Silva Rodrigues | Email: vagner.rodrigues@satc.edu.br
 
 ## Motivação
-&emsp;&emsp;O presente repositório trata-se de um projeto desenvolvido como um Trabalho de Conclusão de Curso (TCC) do curso de graduação de Engenharia de Computação da instituição UniSATC, no ano de 2024. \
+&emsp;&emsp;O presente repositório trata-se de um projeto desenvolvido como um Trabalho de Conclusão de Curso (TCC) do curso de graduação de Engenharia de Computação da instituição UniSATC, no ano de 2024. 
 
 &emsp;&emsp;Link para o TCC: www.adicionarotccaki.com
 
