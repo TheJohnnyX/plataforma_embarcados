@@ -12,4 +12,36 @@ Orientador: Vagner da Silva Rodrigues | Email: vagner.rodrigues@satc.edu.br
 &emsp;&emsp;Outra utilização para o projeto é permitir que seja possível rapidamente desenvolver algoritmos sem a necessidade de montagem de circuitos utilizando protoboards, que podem acarretar em diversos problemas físicos como mau contato nos terminais dos componentes, montagem errada, inversão de polaridade e componentes queimados.
 
 ## Especificações
-&emsp;&emsp;O projeto será desenvolvido utilizando a placa de desenvolvimento NodeMCU-32S, que é baseada em ESP32
+&emsp;&emsp;O projeto foi desenvolvido utilizando a placa de desenvolvimento NodeMCU-32S, que utiliza o microcontrolador ESP32, de acordo com a imagem abaixo:
+
+![image](https://github.com/TheJohnnyX/plataforma_embarcados/assets/103773247/cd4d5e2e-6853-4a0c-b70a-8c6077f2a3eb)
+
+Dessa forma, definiu-se os seguintes circuitos para a placa:
+
+- Microcontrolador com Wi-Fi
+- Botões
+- LED comum e RGB
+- Displays de 7 segmentos multiplexados
+- Sensor de umidade e temperatura DHT11
+- Sensor de distância ultrassônico HC-SR04
+- Sensor de luminosidade com um LDR
+- Acionamento de cargas com Relé
+
+## Lista de componentes
+  
+![Sem título](https://github.com/TheJohnnyX/plataforma_embarcados/assets/103773247/b39859ab-8bac-4133-b666-e40cb0e0cc8a)
+
+De acordo com simulações em sites de venda de componentes eletrônicos, os componentes totalizam 104,26 reais.
+
+## Diagrama esquemático
+
+![Diagrama](https://github.com/TheJohnnyX/plataforma_embarcados/assets/103773247/722db01d-8101-48d7-b494-dbb7d913e426)
+
+## Layout - Top Layer
+
+![Layout 2](https://github.com/TheJohnnyX/plataforma_embarcados/assets/103773247/743cc7b1-3faf-493c-a98b-90bb50cf4ecf)
+
+
+## Layout - Bottom Layer
+
+![Layout 1](https://github.com/TheJohnnyX/plataforma_embarcados/assets/103773247/84feb46f-0a6f-4305-876a-5336b9b55f2a)
