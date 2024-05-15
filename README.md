@@ -14,7 +14,7 @@ Orientador: Vagner da Silva Rodrigues | Email: vagner.rodrigues@satc.edu.br
 &emsp;&emsp;A principal utilização do projeto é permitir que seja possível rapidamente desenvolver algoritmos sem a necessidade de montagem de circuitos utilizando protoboards, que podem acarretar em diversos problemas físicos como mau contato nos terminais dos componentes, montagem errada, inversão de polaridade e componentes queimados.
 
 ## Especificações
-&emsp;&emsp;O projeto foi desenvolvido utilizando a placa de desenvolvimento NodeMCU-32S, que utiliza o microcontrolador ESP32, de acordo com a imagem abaixo:
+&emsp;&emsp;O projeto foi desenvolvido utilizando a placa de desenvolvimento NodeMCU-32S, que utiliza o microcontrolador ESP32 com Wi-fi integrado, de acordo com a imagem abaixo:
 
 ![image](https://github.com/TheJohnnyX/plataforma_embarcados/assets/103773247/cd4d5e2e-6853-4a0c-b70a-8c6077f2a3eb)
 
@@ -43,7 +43,16 @@ De acordo com simulações em sites de venda de componentes eletrônicos, os com
 
 ![Layout 2](https://github.com/TheJohnnyX/plataforma_embarcados/assets/103773247/743cc7b1-3faf-493c-a98b-90bb50cf4ecf)
 
-
 ## Layout - Bottom Layer
 
 ![Layout 1](https://github.com/TheJohnnyX/plataforma_embarcados/assets/103773247/84feb46f-0a6f-4305-876a-5336b9b55f2a)
+
+## Utilizaçãao da placa
+
+Para poder utilizar a placa, é necessário usar a IDE do arduino ou alguma outra com os pluglins necessários, como por exemplo o VS Code. \
+
+Além disso, é necessário instalar o pacote de bibliotecas para poder utilizar os recursos do ESP32. \
+
+Sempre que for necessário compilar o código no NodeMCU-32S, é necessário remover o jumper JP1 da placa e, quando a IDE solicitar, pressionar o botão BOOT do NodeMCU-32S. \
+
+Após isso, é necessário inserir novamente o jumper JP1 na placa, caso contrário, os circuitos relacionados aos botões não funcionarão.
