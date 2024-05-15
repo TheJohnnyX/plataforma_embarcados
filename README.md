@@ -47,12 +47,12 @@ De acordo com simulações em sites de venda de componentes eletrônicos, os com
 
 ![Layout 1](https://github.com/TheJohnnyX/plataforma_embarcados/assets/103773247/84feb46f-0a6f-4305-876a-5336b9b55f2a)
 
-## Utilizaçãao da placa
+## Utilização da placa
 
-Para poder utilizar a placa, é necessário usar a IDE do arduino ou alguma outra com os pluglins necessários, como por exemplo o VS Code. \
+Para poder utilizar a placa, é necessário usar a IDE do arduino ou alguma outra com os pluglins necessários, como por exemplo o VS Code. 
 
-Além disso, é necessário instalar o pacote de bibliotecas para poder utilizar os recursos do ESP32. \
+Além disso, é necessário instalar o pacote de bibliotecas para poder utilizar os recursos do ESP32. 
 
-Sempre que for necessário compilar o código no NodeMCU-32S, é necessário remover o jumper JP1 da placa e, quando a IDE solicitar, pressionar o botão BOOT do NodeMCU-32S. \
+Sempre que for necessário compilar o código no NodeMCU-32S, é necessário remover o jumper JP1 da placa e, quando a IDE solicitar, pressionar o botão BOOT do NodeMCU-32S. 
 
 Após isso, é necessário inserir novamente o jumper JP1 na placa, caso contrário, os circuitos relacionados aos botões não funcionarão.
