@@ -64,6 +64,6 @@ void loop() {
   bool botao3 = digitalRead(BOTAO3);
   bool botao4 = digitalRead(BOTAO4);
 
-  Serial.println("Botão 1: " + (string)botao1 + " | Botão 2: " + (string)botao2 + " | Botão 3: " + (string)botao3 + " | Botão 4: " + (string)botao4);
+  Serial.println("Botão 1: " + (String)botao1 + " | Botão 2: " + (String)botao2 + " | Botão 3: " + (String)botao3 + " | Botão 4: " + (String)botao4);
   delay(500);
 }
