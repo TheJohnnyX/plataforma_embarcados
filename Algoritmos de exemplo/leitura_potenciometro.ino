@@ -38,23 +38,9 @@
 #define ULTRASSONIC_TRIG 32
 #define ULTRASSONIC_ECHO 35
 
-byte display_pins[] = {A, B, C, D, E, F, G, DP, DISPLAY1, DISPLAY2};
-
-void setDigit(int flag)
-{
-  for(int i = 0; i < 8; i++)
-  {
-    digitalWrite(display_pins[i],segNum[flag][i]);
-  }
-}
-
 // Essa função é executada apenas uma vez ao iniciar o algoritmo, antes do loop
 void setup() {
   Serial.begin(115200);
-
-  for(int i = 0; i <= sizeof(display_pins); i++){
-    pinMode(display_pins[i], OUTPUT);
-  }
 }
 
 // Essa função repetirá indefinidamente
