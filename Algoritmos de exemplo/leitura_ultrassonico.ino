@@ -101,6 +101,13 @@ void loop() {
   int distancia = ultrasonic.read();
   Serial.println(distancia);
   
+  if (distancia >= 99) {
+    distancia = 99;
+  }
+  if (distancia < 0) {
+    distancia = 0;
+  }
+
   ten = distancia / 10;
   unity = distancia % 10;
 
