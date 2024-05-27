@@ -49,7 +49,7 @@ De acordo com simulações em sites de venda de componentes eletrônicos, os com
 
 ## Utilização da placa
 
-Para utilizar a placa, é necessário usar a IDE do arduino ou alguma outra com os pluglins necessários, como por exemplo o VS Code. 
+Para utilizar a placa, é necessário usar a IDE do arduino ou alguma outra com os plugins necessários, como por exemplo o VS Code. 
 
 Além disso, é necessário instalar o pacote de bibliotecas para poder utilizar os recursos do ESP32. 
 
