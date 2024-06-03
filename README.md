@@ -33,7 +33,7 @@ Dessa forma, definiu-se os seguintes circuitos para a placa:
   
 ![Sem título](https://github.com/TheJohnnyX/plataforma_embarcados/assets/103773247/b39859ab-8bac-4133-b666-e40cb0e0cc8a)
 
-De acordo com simulações em sites de venda de componentes eletrônicos, os componentes totalizam 104,26 reais.
+De acordo com simulações realizadas em sites de venda de componentes eletrônicos feitas em Abril de 2024, os componentes totalizam 104,26 reais.
 
 ## Diagrama esquemático
 
