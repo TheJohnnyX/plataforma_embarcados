@@ -6,7 +6,7 @@ Orientador: Vagner da Silva Rodrigues | Email: vagner.rodrigues@satc.edu.br
 ## Motivação
 &emsp;&emsp;O presente repositório trata-se de um projeto desenvolvido como um Trabalho de Conclusão de Curso (TCC) do curso de graduação de Engenharia de Computação da instituição UniSATC, no ano de 2024. 
 
-&emsp;&emsp;Link para o TCC: www.adicionarotccaki.com
+&emsp;&emsp;Link para o artigo do TCC: www.adicionarotccaki.com
 
 ## Objetivos
 &emsp;&emsp;O presente trabalho visa desenvolver uma placa eletrônica com o intuito de tornar a experiência do estudante de sistemas embarcados mais eficaz e didática. \
