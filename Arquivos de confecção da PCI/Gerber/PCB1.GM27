@@ -1,0 +1,20 @@
+G04*
+G04 #@! TF.GenerationSoftware,Altium Limited,CircuitMaker,2.2.1 (2.2.1.6)*
+G04*
+G04 Layer_Color=9750260*
+%FSLAX25Y25*%
+%MOIN*%
+G70*
+G04*
+G04 #@! TF.SameCoordinates,4B569A1E-B195-418F-9F09-93343C68B421*
+G04*
+G04*
+G04 #@! TF.FilePolarity,Positive*
+G04*
+G01*
+G75*
+%ADD50R,0.61000X0.47000*%
+D50*
+X536000Y217500D02*
+D03*
+M02*

@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1.CMPcbDoc   12/06/2024  22:51:47
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : PCB1-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             22        PTH        13.46inch (341.93mm)
+T2      30mil (0.749mm)                                           Round             50        PTH        24.35inch (618.60mm)
+T3      30mil (0.762mm)                                           Round             6         PTH        2.51inch (63.87mm)
+T4      32mil (0.8mm)                                             Round             29        PTH        6.57inch (166.83mm)
+T5      35mil (0.889mm)                                           Round             4         PTH        0.30inch (7.62mm)
+T6      35mil (0.899mm)                                           Round             10        PTH        1.82inch (46.24mm)
+T7      39mil (1.001mm)                                           Round             58        PTH        16.72inch (424.70mm)
+T8      40mil (1.016mm)                                           Round             2         PTH        0.40inch (10.16mm)
+T9      43mil (1.1mm)                                             Round             51        PTH        10.04inch (255.12mm)
+T10     47mil (1.194mm)                                           Round             3         PTH        0.40inch (10.16mm)
+T11     53mil (1.349mm)                                           Round             5         PTH        1.81inch (45.94mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              240
+
+Total Processing Time (hh:mm:ss) : 00:00:00
